@@ -1,0 +1,13 @@
+.box1 {
+  background-color: silver;
+  width: 500px;
+  height: 300px;
+  float: left;
+}
+
+.box2 {
+  background-color: black;
+  width: 500px;
+  height: 300px;
+  float: right;
+}
